@@ -1,1 +1,1 @@
-Esta es una prueba del PrepCourse de Henry para aprender a clonar un repositorio desde Github a mi computadora
+ESta es una prueba de como crear y clonar un repositorio de github hacia mi computadora 
